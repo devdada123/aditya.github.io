@@ -1,0 +1,4 @@
+name = "aditya-kunwar"               # Must be all lowercase, numbers, and dashes
+compatibility_date = "2025-06-23"    # Today's date
+
+assets = { directory = "./public" }  # Tell Wrangler where to find your static files
